@@ -1,7 +1,7 @@
 # 📚 Aula 02 — Configuração do Ambiente de Desenvolvimento
 
 > **Disciplina:** Frameworks Front-end  
-> **Professor:** Prof. Me. Deivison S. Takatu
+> **Professor:** Prof. Deivison S. Takatu
 
 ---
 
